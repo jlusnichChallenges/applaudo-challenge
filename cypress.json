@@ -1,0 +1,13 @@
+{
+  "video": false,
+  "videoUploadOnPasses": false,
+  "videoCompression": false,
+  "screenshotOnRunFailure": true,
+  "viewportWidth": 1920,
+  "viewportHeight": 1080,
+  "watchForFileChanges": false,
+  "defaultCommandTimeout": 20000,
+  "chromeWebSecurity": false,
+  "trashAssetsBeforeRuns": true,
+  "baseUrl": "https://www.globalsqa.com/angularJs-protractor/BankingProject"
+}
